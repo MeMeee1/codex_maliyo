@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19f6db0f738eb40409e51a395bcff004, type: 3}
+  m_Name: TaxiCard
+  m_EditorClassIdentifier: 
+  titleText: Taxi
+  descriptionText: Taxi Cab
+  fuelText: 50
+  speedText: 100
+  characterImage: {fileID: 21300000, guid: 6761bde39aaa3ca45890245c95613598, type: 3}
